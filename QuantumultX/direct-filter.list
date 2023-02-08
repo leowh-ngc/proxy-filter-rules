@@ -15,6 +15,9 @@ HOST-SUFFIX, appcenter.ms, DIRECT
 HOST-SUFFIX, bing.com, DIRECT
 HOST-SUFFIX, msn.com, DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
+HOST-SUFFIX,microsoftapp.net,DIRECT
+HOST-SUFFIX,skype.com,DIRECT
+HOST-SUFFIX,xboxlive.com,DIRECT
 
 # 苹果
 HOST-SUFFIX,aaplimg.com,DIRECT
@@ -128,6 +131,7 @@ IP6-CIDR,fe80::/10,DIRECT
 HOST-SUFFIX,cloudflare.com,DIRECT
 HOST-SUFFIX,teamviewer.com,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
+HOST-SUFFIX,playstation.com,DIRECT
 
 HOST-SUFFIX,cn,DIRECT
 HOST-KEYWORD,-cn,DIRECT
