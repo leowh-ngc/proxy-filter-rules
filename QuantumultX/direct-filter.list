@@ -37,6 +37,11 @@ HOST-SUFFIX,blizzard.com,DIRECT
 HOST-SUFFIX,battle.net,DIRECT
 HOST,blzddist1-a.akamaihd.net,DIRECT
 
+# sony
+HOST-SUFFIX,playstation.com,DIRECT
+HOST-SUFFIX,playstation.net,DIRECT
+HOST-SUFFIX,sony.com,DIRECT
+
 # 国内
 HOST-SUFFIX,amap.com,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
@@ -131,7 +136,6 @@ IP6-CIDR,fe80::/10,DIRECT
 HOST-SUFFIX,cloudflare.com,DIRECT
 HOST-SUFFIX,teamviewer.com,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
-HOST-SUFFIX,playstation.com,DIRECT
 
 HOST-SUFFIX,cn,DIRECT
 HOST-KEYWORD,-cn,DIRECT
