@@ -1,0 +1,37 @@
+HOST-SUFFIX,microsoft.com,DIRECT
+HOST-SUFFIX,msecnd.net,DIRECT
+HOST-SUFFIX,msedge.net,DIRECT
+HOST-SUFFIX,office.com,DIRECT
+HOST-SUFFIX,outlookmobile.com,DIRECT
+HOST-SUFFIX,sfx.ms,DIRECT
+HOST-SUFFIX,sharepoint.com,DIRECT
+HOST-SUFFIX,s-microsoft.com,DIRECT
+HOST-SUFFIX,visualstudio.com,DIRECT
+HOST-SUFFIX,windows.net,DIRECT
+HOST-KEYWORD,officecdn,DIRECT
+HOST-SUFFIX, windows.com, DIRECT
+HOST-SUFFIX, appcenter.ms, DIRECT
+HOST-SUFFIX, bing.com, DIRECT
+HOST-SUFFIX, msn.com, DIRECT
+
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,apple.co,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,icloud.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+IP-CIDR,17.0.0.0/8,DIRECT
+
+HOST-SUFFIX,blizzard.com,DIRECT
+HOST-SUFFIX,battle.net,DIRECT
+HOST,blzddist1-a.akamaihd.net,DIRECT
+
+HOST-SUFFIX,cloudflare.com,DIRECT
+DOMAIN-SUFFIX,teamviewer.com,DIRECT
+DOMAIN-SUFFIX,weather.com,DIRECT
+
+HOST-SUFFIX,cn,DIRECT
