@@ -1,4 +1,5 @@
 # 微软
+HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,microsoft.com,DIRECT
 HOST-SUFFIX,msecnd.net,DIRECT
 HOST-SUFFIX,msedge.net,DIRECT
@@ -10,10 +11,9 @@ HOST-SUFFIX,s-microsoft.com,DIRECT
 HOST-SUFFIX,visualstudio.com,DIRECT
 HOST-SUFFIX,windows.net,DIRECT
 HOST-KEYWORD,officecdn,DIRECT
-HOST-SUFFIX, windows.com, DIRECT
-HOST-SUFFIX, appcenter.ms, DIRECT
-HOST-SUFFIX, bing.com, DIRECT
-HOST-SUFFIX, msn.com, DIRECT
+HOST-SUFFIX,windows.com,DIRECT
+HOST-SUFFIX,appcenter.ms,DIRECT
+HOST-SUFFIX,msn.com,DIRECT
 HOST-SUFFIX,microsoftonline.com,DIRECT
 HOST-SUFFIX,microsoftapp.net,DIRECT
 HOST-SUFFIX,skype.com,DIRECT
@@ -30,7 +30,6 @@ HOST-SUFFIX,icloud.com,DIRECT
 HOST-SUFFIX,icloud-content.com,DIRECT
 HOST-SUFFIX,me.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
-IP-CIDR,17.0.0.0/8,DIRECT
 
 # 暴雪
 HOST-SUFFIX,blizzard.com,DIRECT
